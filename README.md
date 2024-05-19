@@ -1,5 +1,5 @@
 # 💫 About Me:
-A boring person and unproductive guy
+Not sure about myself, probably will launch off to the interstellar seek help from the Beyonder.
 
 
 <!-- ## 🌐 Socials:
