@@ -11,9 +11,6 @@ A boring person and unproductive guy
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sparkman60&icon=4&color=4)](https://visitcount.itsvg.in)
 
